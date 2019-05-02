@@ -1,0 +1,16 @@
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\BootStrap.deps.json
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\BootStrap.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.csproj.CoreCompileInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.AssemblyInfoInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.AssemblyInfo.cs
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.csprojAssemblyReference.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\BootStrap.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Abstraction.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Core.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Data.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Abstraction.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Core.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\bin\Debug\netstandard2.0\Data.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.csproj.CopyComplete
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\BootStrap\obj\Debug\netstandard2.0\BootStrap.pdb

@@ -1,0 +1,12 @@
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\bin\Debug\netstandard2.0\Abstraction.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\bin\Debug\netstandard2.0\Abstraction.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete

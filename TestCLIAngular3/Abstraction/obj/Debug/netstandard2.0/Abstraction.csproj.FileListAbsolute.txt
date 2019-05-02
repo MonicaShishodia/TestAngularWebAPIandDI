@@ -1,0 +1,9 @@
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\bin\Debug\netstandard2.0\Abstraction.deps.json
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\bin\Debug\netstandard2.0\Abstraction.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\bin\Debug\netstandard2.0\Abstraction.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.AssemblyInfoInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.AssemblyInfo.cs
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Abstraction\obj\Debug\netstandard2.0\Abstraction.csprojAssemblyReference.cache

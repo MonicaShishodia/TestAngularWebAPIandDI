@@ -1,0 +1,14 @@
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Abstraction.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Data.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Abstraction.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\bin\Debug\netstandard2.0\Data.pdb
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.csproj.CopyComplete
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Work\Test Solutions\TestCLIAngular3\TestCLIAngular3\Core\obj\Debug\netstandard2.0\Core.pdb

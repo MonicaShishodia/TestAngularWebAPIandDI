@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <table>
+    <tr *ngFor="let c of users">
+      <td>{{c.name}}</td>
+    </tr>
+  </table>
+  <input type="text" [(ngModel)]="NewUser" />
+  <input type="button" value="Add New User" (click)="Add()" />
+</body>
+</html>
